@@ -1,5 +1,5 @@
 /* ============================================================
-   sathyaelumalai.com — style.css
+   jennywasthere.com — style.css
    Section-level styles. Order follows §5 of the developer brief.
    ============================================================ */
 
@@ -1697,7 +1697,7 @@
   pointer-events: none;
 }
 .hero--editorial::after {
-  content: "SATHYA ELUMALAI";
+  content: "JENNY MATHEW";
   position: absolute;
   left: var(--gutter-px);
   right: var(--gutter-px);
